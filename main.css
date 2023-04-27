@@ -1,4 +1,6 @@
-html {background-color: ; color: forestgreen; border-style: inset;  }
+html {background-color: ; color: forestgreen; border-style: inset; }
+
+form {white-space: nowrap; }
 
 .description {font-size: 50;
 display: flex;
@@ -11,3 +13,7 @@ justify-content: center;}
 
 #center {text-align: center}
 body {padding-left: 25%; padding-right: 25%;}
+
+input[type="text"] {
+    width: 80%;
+}
