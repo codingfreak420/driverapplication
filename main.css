@@ -1,3 +1,13 @@
-.description {font-family: impact, sans-serif}
+html {background-color: ; color: forestgreen; border-style: inset;  }
 
-.name  {font-family: sans-serif;}
+.description {font-size: 50;
+display: flex;
+justify-content: center;}
+
+.name, .address, .training, h3, h4, {font-family: sans-serif;
+}
+
+.required_line_required_asterisk {color: red;}
+
+#center {text-align: center}
+body {padding-left: 25%; padding-right: 25%; overflow: hidden;}
